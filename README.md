@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubiozito&show_icons=true&theme=dark&title_color=ff00d0&bg_color=00ffee&locale=en&layout=compact" alt="rubiozito" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubiozito&show_icons=true&theme=dracula&title_color=00f5e4&bg_color=b80000&hide_border=true&locale=en" alt="rubiozito" /></p>
+
+![Snake animation](https://github.com/Rubiozito/Rubiozito/blob/output/github-contribution-grid-snake.svg)
