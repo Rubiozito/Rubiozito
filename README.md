@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rafael Rubio</h1>
 <h3 align="center">Computer engineering student at Instituto Mauá de Tecnologia, SP-Brasil</h3>
 
-
 - 🔭 I’m currently working on [Dev Communnity Mauá](https://github.com/Maua-Dev)
 
-- 🌱 I’m currently learning **AWS, Java**
+- 🌱 I’m currently learning **AWS, JavaScript**
 
 - 👯 I’m also collaborating on [Metaverso Mauá](https://github.com/MetaversoMaua)
 
 - 📫 How to reach me **rafaelrubiocarnes@gmail.com**
 
-- ⚡ Fun fact **I'm a guitarrist at a band called The Daniels!**
+- ⚡ Fun fact **I'm a guitarrist at a band called Uppercut!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubiozito&show_icons=true&theme=dracula&title_color=00f5e4&bg_color=b80000&hide_border=true&locale=en" alt="rubiozito" /></p>
 
-![Snake animation](https://github.com/Rubiozito/Rubiozito/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/flaviomurata/flaviomurata/output/snake.svg" alt="Snake animation" />
